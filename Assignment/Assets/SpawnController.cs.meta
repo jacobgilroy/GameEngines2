@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 319628ccf32e2424884f9f0adda4f430
+timeCreated: 1495738892
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Bird: {fileID: 1589354346574464, guid: 06671f5d305709a4a8d6106dfaaaa78d, type: 2}
+  - Baby: {fileID: 1487242798129794, guid: b8c3779379f707248a1f4fd9766ff4fa, type: 2}
+  - Fruit: {fileID: 1409241681419780, guid: 819f74e0ea3a4484e8dbdc7b061d24f8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
